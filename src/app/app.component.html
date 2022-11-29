@@ -5,7 +5,7 @@
     <div class="feed-item d-flex ml-4" *ngFor="let item of data.items; index as j;">
       <span class="time mr-2">{{item.time}}</span>
       <div class="d-flex flex-column align-items-center mt-1">
-        <span class="dot pr-3"></span>
+        <span class="dot pr-3" [style.background-color]="item.status == 0? '#2cb5e8': '#ff3c41'"></span>
         <div *ngIf="j!=data.items.length-1" class="line">
         </div>
       </div>

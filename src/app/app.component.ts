@@ -24,7 +24,8 @@ export class AppComponent implements OnInit {
        Donec quis felis libero. Nunc feugiat nisi ut ullamcorper congue. 
        Ut tempus egestas mauris et scelerisque. Sed tincidunt ante ligula, 
        eget pharetra mi pretium eget. Fusce tincidunt, elit blandit semper sollicitudin, 
-       sapien lectus lobortis quam, ac bibendum lectus risus quis lectus.`
+       sapien lectus lobortis quam, ac bibendum lectus risus quis lectus.`,
+      status: 0
     },
     {
       idHoSo: "aaaaa",
@@ -37,7 +38,8 @@ export class AppComponent implements OnInit {
        Donec quis felis libero. Nunc feugiat nisi ut ullamcorper congue. 
        Ut tempus egestas mauris et scelerisque. Sed tincidunt ante ligula, 
        eget pharetra mi pretium eget. Fusce tincidunt, elit blandit semper sollicitudin, 
-       sapien lectus lobortis quam, ac bibendum lectus risus quis lectus.`
+       sapien lectus lobortis quam, ac bibendum lectus risus quis lectus.`,
+      status: 0
     },
     {
       idHoSo: "bbbbb",
@@ -50,7 +52,8 @@ export class AppComponent implements OnInit {
        Donec quis felis libero. Nunc feugiat nisi ut ullamcorper congue. 
        Ut tempus egestas mauris et scelerisque. Sed tincidunt ante ligula, 
        eget pharetra mi pretium eget. Fusce tincidunt, elit blandit semper sollicitudin, 
-       sapien lectus lobortis quam, ac bibendum lectus risus quis lectus.`
+       sapien lectus lobortis quam, ac bibendum lectus risus quis lectus.`,
+      status: 1
     },
     {
       idHoSo: "bbbbb",
@@ -63,7 +66,8 @@ export class AppComponent implements OnInit {
        Donec quis felis libero. Nunc feugiat nisi ut ullamcorper congue. 
        Ut tempus egestas mauris et scelerisque. Sed tincidunt ante ligula, 
        eget pharetra mi pretium eget. Fusce tincidunt, elit blandit semper sollicitudin, 
-       sapien lectus lobortis quam, ac bibendum lectus risus quis lectus.`
+       sapien lectus lobortis quam, ac bibendum lectus risus quis lectus.`,
+      status: 1
     },
     {
       idHoSo: "bbbbb",
@@ -76,7 +80,8 @@ export class AppComponent implements OnInit {
        Donec quis felis libero. Nunc feugiat nisi ut ullamcorper congue. 
        Ut tempus egestas mauris et scelerisque. Sed tincidunt ante ligula, 
        eget pharetra mi pretium eget. Fusce tincidunt, elit blandit semper sollicitudin, 
-       sapien lectus lobortis quam, ac bibendum lectus risus quis lectus.`
+       sapien lectus lobortis quam, ac bibendum lectus risus quis lectus.`,
+      status: 0
     },
     {
       idHoSo: "bbbbb",
@@ -89,7 +94,8 @@ export class AppComponent implements OnInit {
        Donec quis felis libero. Nunc feugiat nisi ut ullamcorper congue. 
        Ut tempus egestas mauris et scelerisque. Sed tincidunt ante ligula, 
        eget pharetra mi pretium eget. Fusce tincidunt, elit blandit semper sollicitudin, 
-       sapien lectus lobortis quam, ac bibendum lectus risus quis lectus.`
+       sapien lectus lobortis quam, ac bibendum lectus risus quis lectus.`,
+      status: 0
     }
   ];
 
