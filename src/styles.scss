@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-color:  #fff; }
+
+body > app-root > div > app-main-shell > app-sidebar > div > mat-sidenav-container > mat-sidenav-content {
+    background-color: #fff;
+}
+
+.basic-container {
+    padding: 5px;
+  }
+  
+  .version-info {
+    font-size: 8pt;
+    float: right;
+  }
+  
+  .border-b1 {
+    border-bottom: 1px solid grey;
+  }
+  pre {
+    background: lightgrey;
+  }
+  code {
+    white-space: break-spaces;
+  }
+  
+  h1 {
+    line-height: initial !important;
+  }

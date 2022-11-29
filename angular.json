@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "activity-log"
+    }
+  },
+  "defaultProject": "activity-log",
+  "cli": {
+    "analytics": false
+  }
 }
